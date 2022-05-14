@@ -61,10 +61,7 @@ header a, header a:hover {
 }
 
 #dsmovie-card-list{
-    padding-top:40px;
-    padding-bottom:40px;
-    padding-left: 0;
-    padding-right: 0;
+    padding: 40px 10px;
 }
 
 .dsmovie-card{
@@ -85,7 +82,7 @@ header a, header a:hover {
     align-items: center;
     justify-content: space-between;
     border-radius: 0 0 8px 8px;
-    height: 220px;
+    height: 190px;
 }
 
 main{
@@ -95,7 +92,7 @@ main{
 .dsmovie-card-description h3{
     font-weight: 700;
     font-size: 14px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
